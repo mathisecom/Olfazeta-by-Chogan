@@ -66,7 +66,7 @@
         "heading_tag": "h6",
         "text_alignment": "center",
         "icon_spacing": "small",
-        "background": "",
+        "background": "#fdfcf9",
         "background_gradient": "",
         "text_color": ""
       }
@@ -89,7 +89,7 @@
           "settings": {
             "menu": "footer",
             "show_menu_title": true,
-            "menu_title": ""
+            "menu_title": "Informations Légales"
           }
         },
         "text": {

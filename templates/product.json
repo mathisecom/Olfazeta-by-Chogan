@@ -73,6 +73,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_6HNc7G": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -102,6 +108,7 @@
         "liquid_WGcxQm",
         "liquid_94VtRG",
         "buy_buttons",
+        "liquid_6HNc7G",
         "description",
         "collapsible_text_EwFALh"
       ],

@@ -53,7 +53,7 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "",
+        "collection": "frontpage",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -164,7 +164,7 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "collection": "",
+        "collection": "luxury",
         "products": [],
         "full_width": true,
         "stack_products": false,

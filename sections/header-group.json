@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "ÉCHANTILLONS OFFERTS À CHAQUE COMMANDE",
+            "url": ""
+          }
+        },
+        "message_CYMTGN": {
+          "type": "message",
+          "settings": {
+            "text": "ÉCHANTILLONS OFFERTS À CHAQUE COMMANDE",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_CYMTGN"
       ],
       "settings": {
         "enable_sticky": false,

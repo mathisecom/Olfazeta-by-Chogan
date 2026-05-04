@@ -95,9 +95,9 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "Contact",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
+            "title": "Contactez-Nous",
+            "content": "",
+            "enable_follow_on_shop": false
           }
         }
       },

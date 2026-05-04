@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_pyFTjf": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -97,6 +103,7 @@
         }
       },
       "block_order": [
+        "liquid_pyFTjf",
         "title",
         "price",
         "separator",

@@ -79,9 +79,9 @@
           "settings": {
             "image": "shopify://shop_images/Olfazeta_Logo_Black_170_1.png",
             "image_width": 150,
-            "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
-            "content": ""
+            "heading_size": "h4",
+            "title": "Inscrivez-vous à notre Newsletter",
+            "content": "<p>Commencez votre voyage olfactif chez Olfazeta avec un avantage exclusif : <strong>Recevez toutes les informations en avant première !</strong></p>"
           }
         },
         "links": {

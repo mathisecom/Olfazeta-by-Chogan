@@ -18,9 +18,9 @@
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
-            "heading_tag": "h0",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h2",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
@@ -36,7 +36,6 @@
       "block_order": [
         "slide-1"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,

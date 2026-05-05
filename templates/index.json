@@ -49,6 +49,32 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "rich_text_LzqPft": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7yawfM": {
+          "type": "heading",
+          "settings": {
+            "text": "NOS PARFUMS",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_7yawfM"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": false,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "collection_list_qcw8Di": {
       "type": "collection-list",
       "blocks": {
@@ -390,6 +416,7 @@
   },
   "order": [
     "slideshow",
+    "rich_text_LzqPft",
     "collection_list_qcw8Di",
     "featured_collection_HgDLHf",
     "collection_list_jxrEdB",

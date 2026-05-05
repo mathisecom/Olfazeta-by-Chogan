@@ -73,9 +73,9 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": false,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
+            "atc_button_background": "#1a1a1a",
+            "atc_button_text_color": "#fdfcf9",
+            "payment_button_background": "#1a1a1a",
             "payment_button_text_color": ""
           }
         },
@@ -135,6 +135,39 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "rich_text_LTbffR": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_gBqXmq": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_irDVWa": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_gBqXmq",
+        "heading_irDVWa"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "logoscroll_ydXUfW": {
@@ -322,6 +355,7 @@
   },
   "order": [
     "main",
+    "rich_text_LTbffR",
     "logoscroll_ydXUfW",
     "testimonials_qVNiQn",
     "related-products"

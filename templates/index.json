@@ -156,6 +156,39 @@
         "product_card_text_color": ""
       }
     },
+    "rich_text_qQDR8Q": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_gcHg7c": {
+          "type": "subheading",
+          "settings": {
+            "text": "OLFAZETA BY CHOGAN"
+          }
+        },
+        "heading_yTGTkM": {
+          "type": "heading",
+          "settings": {
+            "text": "Nos Collections",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_gcHg7c",
+        "heading_yTGTkM"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#fcfbf9",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "collection_list_jxrEdB": {
       "type": "collection-list",
       "blocks": {
@@ -230,7 +263,7 @@
         "collections_per_row": 4,
         "show_progress_bar": true,
         "subheading": "",
-        "title": "Nos Collections",
+        "title": "",
         "content": "",
         "link_url": "",
         "link_text": "",
@@ -419,6 +452,7 @@
     "rich_text_LzqPft",
     "collection_list_qcw8Di",
     "featured_collection_HgDLHf",
+    "rich_text_qQDR8Q",
     "collection_list_jxrEdB",
     "featured_collection_he9qCN",
     "rich_text_zwfEJ6",

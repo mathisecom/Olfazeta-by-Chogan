@@ -49,6 +49,68 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
+    "marquee_yDQ9gA": {
+      "type": "marquee",
+      "blocks": {
+        "text_k796fJ": {
+          "type": "text",
+          "settings": {
+            "text": "Livraison Gratuite dès 50€",
+            "icon": ""
+          }
+        },
+        "text_dgyydP": {
+          "type": "text",
+          "settings": {
+            "text": "Nouvelle collection disponible",
+            "icon": ""
+          }
+        },
+        "text_j4f8Jg": {
+          "type": "text",
+          "settings": {
+            "text": "Paiement Sécurisé",
+            "icon": ""
+          }
+        },
+        "text_XgiWLt": {
+          "type": "text",
+          "settings": {
+            "text": "Service Client 7j/7",
+            "icon": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_k796fJ",
+        "text_dgyydP",
+        "text_j4f8Jg",
+        "text_XgiWLt"
+      ],
+      "name": "Marquee défilant",
+      "settings": {
+        "bg_color": "#000000",
+        "text_color": "#ffffff",
+        "separator_color": "#ffffff",
+        "font_family": "inherit",
+        "font_size": 20,
+        "font_size_mobile": 14,
+        "font_weight": "600",
+        "text_transform": "uppercase",
+        "letter_spacing": 1,
+        "speed": 20,
+        "direction": "left",
+        "pause_on_hover": true,
+        "item_spacing": 45,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "separator": "✦",
+        "border_top": false,
+        "border_bottom": false,
+        "border_color": "#ffffff",
+        "border_width": 1
+      }
+    },
     "rich_text_LzqPft": {
       "type": "rich-text",
       "blocks": {
@@ -414,9 +476,9 @@
         "card_width_desktop": 130,
         "card_width_mobile": 100,
         "heading_color": "#121212",
-        "layout_bg_color": "#FFFFFF",
+        "layout_bg_color": "#ffffff",
         "layout_border_color": "#121212",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "border_color": "#121212",
         "margin_top": 0,
         "margin_bottom": 0,
@@ -549,6 +611,7 @@
   },
   "order": [
     "slideshow",
+    "marquee_yDQ9gA",
     "rich_text_LzqPft",
     "collection_list_qcw8Di",
     "featured_collection_HgDLHf",

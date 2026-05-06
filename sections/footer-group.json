@@ -18,8 +18,9 @@
           "type": "item",
           "settings": {
             "icon": "picto-box",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
+            "custom_icon": "shopify://shop_images/icon-w-t16-img1.png",
+            "mobile_icon_width": 40,
+            "icon_width": 40,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
@@ -31,26 +32,28 @@
           "type": "item",
           "settings": {
             "icon": "picto-customer-support",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
+            "custom_icon": "shopify://shop_images/icon-w-t16-img3.png",
+            "mobile_icon_width": 40,
+            "icon_width": 40,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
-            "content": ""
+            "title": "Paiement Sécurisé",
+            "content": "<p>VISA, Mastercard, Amex, iDEAL, Bancontact</p>"
           }
         },
         "item_jEMmwf": {
           "type": "item",
           "settings": {
             "icon": "picto-customer-support",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
+            "custom_icon": "shopify://shop_images/icon-w-t16-img4.png",
+            "mobile_icon_width": 40,
+            "icon_width": 40,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
-            "content": ""
+            "title": "Satisfait ou Remboursé",
+            "content": "<p>30 jours pour changer d’avis</p>"
           }
         }
       },

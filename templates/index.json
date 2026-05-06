@@ -266,7 +266,7 @@
             "text_position": "place-self-end text-end",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 40
           }
         },
         "collection_wm3xQV": {
@@ -281,7 +281,7 @@
             "text_position": "place-self-end text-end",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 40
           }
         },
         "collection_PrJ9D7": {
@@ -296,7 +296,7 @@
             "text_position": "place-self-end text-end",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 40
           }
         },
         "collection_CmHKyL": {
@@ -311,7 +311,7 @@
             "text_position": "place-self-end text-end",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 40
           }
         }
       },

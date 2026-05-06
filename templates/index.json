@@ -144,11 +144,12 @@
           "type": "collection",
           "settings": {
             "collection": "parfum-homme",
+            "image": "shopify://shop_images/mencollection.jpg",
             "subheading": "",
-            "title": "Parfum Homme",
+            "title": "Homme",
             "url": "",
-            "heading_tag": "h4",
-            "text_position": "place-self-center text-center",
+            "heading_tag": "h5",
+            "text_position": "place-self-end text-end",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -158,11 +159,12 @@
           "type": "collection",
           "settings": {
             "collection": "parfum-femme",
+            "image": "shopify://shop_images/womencollection.jpg",
             "subheading": "",
-            "title": "Parfum Femme",
+            "title": "Femme",
             "url": "",
-            "heading_tag": "h4",
-            "text_position": "place-self-center text-center",
+            "heading_tag": "h5",
+            "text_position": "place-self-end text-end",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 30

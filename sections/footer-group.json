@@ -24,8 +24,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Livraison Offerte dès 50€",
-            "content": ""
+            "title": "Livraison en Europe",
+            "content": "<p>Livraison gratuite à partir de 50€</p>"
           }
         },
         "customer-support": {
@@ -55,12 +55,27 @@
             "title": "Satisfait ou Remboursé",
             "content": "<p>30 jours pour changer d’avis</p>"
           }
+        },
+        "item_Ycj9Jp": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/icon-w-t16-img2.png",
+            "mobile_icon_width": 40,
+            "icon_width": 40,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Service Client 24/7",
+            "content": "<p>24 heures sur 24, 7 jours sur 7</p>"
+          }
         }
       },
       "block_order": [
         "free-shipping",
         "customer-support",
-        "item_jEMmwf"
+        "item_jEMmwf",
+        "item_Ycj9Jp"
       ],
       "settings": {
         "full_width": true,

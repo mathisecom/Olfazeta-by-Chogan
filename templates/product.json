@@ -79,6 +79,12 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_9bjKK3": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "liquid_6HNc7G": {
           "type": "liquid",
           "settings": {
@@ -115,6 +121,7 @@
         "liquid_WGcxQm",
         "liquid_94VtRG",
         "buy_buttons",
+        "liquid_9bjKK3",
         "liquid_6HNc7G",
         "description",
         "collapsible_text_EwFALh"
@@ -251,9 +258,9 @@
         "card_width_desktop": 130,
         "card_width_mobile": 100,
         "heading_color": "#121212",
-        "layout_bg_color": "#FFFFFF",
+        "layout_bg_color": "#ffffff",
         "layout_border_color": "#121212",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "border_color": "#121212",
         "margin_top": 0,
         "margin_bottom": 0,

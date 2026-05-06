@@ -545,13 +545,25 @@
             "title": "Testimonial 3",
             "content": "<p>Très très content d'avoir découvert Olfazeta Le N 129 est incroyablement similaire.</p>"
           }
+        },
+        "testimonial_gVLDJr": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>L’odeur est vraiment semblable au parfum de référence et l'étui est super pratique.</p>"
+          }
         }
       },
       "block_order": [
         "testimonial_AqFMbH",
         "testimonial_TkBLHT",
         "testimonial_PVTExh",
-        "testimonial_434Tqb"
+        "testimonial_434Tqb",
+        "testimonial_gVLDJr"
       ],
       "name": "Testimonials",
       "settings": {

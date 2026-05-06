@@ -263,7 +263,7 @@
             "title": "",
             "url": "",
             "heading_tag": "h3",
-            "text_position": "place-self-center text-center",
+            "text_position": "place-self-end text-end",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -278,7 +278,7 @@
             "title": "",
             "url": "",
             "heading_tag": "h3",
-            "text_position": "place-self-center text-center",
+            "text_position": "place-self-end text-end",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -293,7 +293,7 @@
             "title": "",
             "url": "",
             "heading_tag": "h3",
-            "text_position": "place-self-center text-center",
+            "text_position": "place-self-end text-end",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -308,7 +308,7 @@
             "title": "",
             "url": "",
             "heading_tag": "h3",
-            "text_position": "place-self-center text-center",
+            "text_position": "place-self-end text-end",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 30

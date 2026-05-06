@@ -254,38 +254,11 @@
     "collection_list_jxrEdB": {
       "type": "collection-list",
       "blocks": {
-        "collection_PrJ9D7": {
-          "type": "collection",
-          "settings": {
-            "collection": "gels-douche",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h3",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_CmHKyL": {
-          "type": "collection",
-          "settings": {
-            "collection": "creme-corps",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h3",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
         "collection_bN6eNA": {
           "type": "collection",
           "settings": {
             "collection": "luxury",
+            "image": "shopify://shop_images/Luxury_Collection_Olfazeta_After.webp",
             "subheading": "",
             "title": "",
             "url": "",
@@ -300,6 +273,37 @@
           "type": "collection",
           "settings": {
             "collection": "frontpage",
+            "image": "shopify://shop_images/olfazeta_collection_millesime_1_After.webp",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h3",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_PrJ9D7": {
+          "type": "collection",
+          "settings": {
+            "collection": "gels-douche",
+            "image": "shopify://shop_images/1712067996_documents.pdf_1__After_After.webp",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h3",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_CmHKyL": {
+          "type": "collection",
+          "settings": {
+            "collection": "creme-corps",
+            "image": "shopify://shop_images/Gel_douche_Hover_After.webp",
             "subheading": "",
             "title": "",
             "url": "",
@@ -312,10 +316,10 @@
         }
       },
       "block_order": [
-        "collection_PrJ9D7",
-        "collection_CmHKyL",
         "collection_bN6eNA",
-        "collection_wm3xQV"
+        "collection_wm3xQV",
+        "collection_PrJ9D7",
+        "collection_CmHKyL"
       ],
       "name": "Collection list",
       "settings": {

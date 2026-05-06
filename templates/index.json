@@ -637,6 +637,68 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "marquee_fVw3Jt": {
+      "type": "marquee",
+      "blocks": {
+        "text_dXGDVc": {
+          "type": "text",
+          "settings": {
+            "text": "Livraison Gratuite dès 50€",
+            "icon": ""
+          }
+        },
+        "text_qwdtUx": {
+          "type": "text",
+          "settings": {
+            "text": "Nouvelle collection disponible",
+            "icon": ""
+          }
+        },
+        "text_LJGfbV": {
+          "type": "text",
+          "settings": {
+            "text": "Paiement Sécurisé",
+            "icon": ""
+          }
+        },
+        "text_UCzHAy": {
+          "type": "text",
+          "settings": {
+            "text": "Service Client 7j/7",
+            "icon": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_dXGDVc",
+        "text_qwdtUx",
+        "text_LJGfbV",
+        "text_UCzHAy"
+      ],
+      "name": "Marquee défilant",
+      "settings": {
+        "bg_color": "#000000",
+        "text_color": "#ffffff",
+        "separator_color": "#ffffff",
+        "font_family": "inherit",
+        "font_size": 12,
+        "font_size_mobile": 10,
+        "font_weight": "600",
+        "text_transform": "uppercase",
+        "letter_spacing": 1,
+        "speed": 20,
+        "direction": "left",
+        "pause_on_hover": true,
+        "item_spacing": 45,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "separator": "✦",
+        "border_top": false,
+        "border_bottom": false,
+        "border_color": "#fcfbf9",
+        "border_width": 1
+      }
     }
   },
   "order": [
@@ -651,6 +713,7 @@
     "rich_text_zwfEJ6",
     "logoscroll_dLL39R",
     "testimonials_gJjMmh",
-    "faq_cfpwhP"
+    "faq_cfpwhP",
+    "marquee_fVw3Jt"
   ]
 }

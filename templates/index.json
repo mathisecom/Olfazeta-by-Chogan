@@ -671,13 +671,21 @@
             "title": "Qu'est-ce que l'extrait de parfum ?",
             "content": "<p>L'extrait de parfum est la forme la plus concentrée et précieuse de la fragrance, offrant une expérience olfactive intense et une tenue exceptionnelle sur la peau.</p><p><strong>Concentration olfactive</strong><br/><br/>Chez Olfazeta, nos extraits contiennent <strong>30% de concentration</strong> en matières premières parfumées.</p><p><strong>Comparaison des concentrations</strong><br/><br/>• <strong>Extrait de parfum</strong> : 30% (tenue optimale, sillage prononcé)<br/><br/>• <strong>Eau de Parfum (EdP)</strong> : 8% à 20%<br/><br/>• <strong>Eau de Toilette (EdT)</strong> : 4% à 8%</p><p><strong>Utilisation</strong><br/><br/>Cette richesse concentrée permet une application parcimonieuse : une ou deux gouttes suffisent pour libérer l'intégralité du parfum, qui se déploie progressivement tout au long de la journée.</p>"
           }
+        },
+        "item_A9JVpF": {
+          "type": "item",
+          "settings": {
+            "title": "Qu'est-ce qu'Olfazeta by Chogan et d'où vient la marque ?",
+            "content": "<p>Olfazeta by Chogan est la ligne de parfumerie de niche du groupe italien Chogan, créée pour démocratiser l'accès aux fragrances de haute qualité.</p><p><strong>L'histoire et l'origine</strong><br/><br/>Née au sein du Chogan Group, entreprise italienne fondée sur l'excellence des produits de beauté et personnels, Olfazeta s'impose rapidement comme une référence en parfumerie en proposant des <strong>extraits de parfum à 30% de concentration</strong> une richesse olfactive habituellement réservée aux maisons de luxe traditionnelles.</p><p><strong>Une philosophie : le luxe accessible</strong><br/><br/>La marque repose sur un modèle de distribution directe : en comptant sur un réseau de conseillé passionnés et de distributeurs plutôt que sur des infrastructures commerciales lourdes et la publicité traditionnelle, Olfazeta investit prioritairement dans la qualité des matières premières et le savoir-faire. Cette approche vertueuse permet de proposer des parfums aux accords sophistiqués, conçus avec des essences nobles, à un prix qui défie les standards du marché.</p><p><strong>Certifications et engagements</strong><br/><br/>Formulations vegan, cruelty-free, et respect des normes REACH européennes, fabriqués avec les mêmes exigences que les grandes maisons de la parfumerie française.</p>"
+          }
         }
       },
       "block_order": [
         "item_KHDKkf",
         "item_aqBXd9",
         "item_UGBqRQ",
-        "item_CFGi6X"
+        "item_CFGi6X",
+        "item_A9JVpF"
       ],
       "name": "FAQ",
       "settings": {

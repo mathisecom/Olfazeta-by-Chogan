@@ -350,6 +350,7 @@
         "feature_8XpnPL": {
           "type": "feature",
           "settings": {
+            "icon": "shopify://shop_images/fabriquefrance.svg",
             "title": "Fabrication Française",
             "description": "Tous nos parfums prennent vie en France, avec cœur, passion et conviction."
           }
@@ -357,6 +358,7 @@
         "feature_7Lcp3h": {
           "type": "feature",
           "settings": {
+            "icon": "shopify://shop_images/picrogramme_aspirateur_baiham.svg",
             "title": "Artisanat",
             "description": "Chaque détail est soigné avec exigence, du geste de création jusqu’au parfum final."
           }
@@ -364,6 +366,7 @@
         "feature_ieYtwK": {
           "type": "feature",
           "settings": {
+            "icon": "shopify://shop_images/unique.svg",
             "title": "Créations uniques et originales",
             "description": "Nos senteurs racontent une histoire, une émotion, un souvenir, loin des tendances éphémères."
           }

@@ -661,8 +661,8 @@
         "item_UGBqRQ": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Proposez-vous la livraison internationale ?",
+            "content": "<p>Nous expédions dans plus de 50 pays, avec une logistique optimisée depuis nos entrepôts situés en Italie, France et Allemagne.</p><p><strong>Europe</strong><br/><br/>• <strong>Union Européenne</strong> : France, Allemagne, Autriche, Belgique, Bulgarie, Croatie, Danemark, Espagne, Estonie, Finlande, Grèce, Hongrie, Irlande, Italie, Lettonie, Lituanie, Luxembourg, Pays-Bas, Pologne, Portugal, République Tchèque, Roumanie, Slovaquie, Slovénie, Suède</p><p><strong>• Europe : </strong>Suisse, Royaume-Uni<br/><br/>• <strong>Îles et micro-États</strong> : Andorre, Chypre, Guernesey (île anglo-normande), Islande, Jersey (île anglo-normande), Liechtenstein, Malte, Monaco, Norvège, Saint-Marin<br/><br/>• <strong>Balkans et Europe de l'Est</strong> : Bosnie-Herzégovine, Macédoine du Nord, Moldavie, Monténégro<br/><br/>• <strong>Territoires et îles européennes</strong> : Guadeloupe, Martinique, Mayotte, La Réunion, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon (France), Açores, Madère (Portugal), Ceuta, Îles Canaries, Melilla (Espagne), Corfou (Grèce), Îles Åland (Finlande), Îles grecques</p><p><strong>Afrique</strong><br/><br/>• Algérie</p><p><strong>Asie & Océanie</strong><br/><br/>• Asie : Arménie, Kazakhstan<br/><br/>• Océanie : Australie, Nouvelle-Calédonie</p><p><strong>Liste complète et délais</strong><br/><br/>Pour consulter la liste intégrale des destinations, délais précis par zone et tarifs :<br/><br/>Zones de livraison internationales</p>"
           }
         }
       },

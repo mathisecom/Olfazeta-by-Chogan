@@ -379,9 +379,10 @@
       ],
       "name": "Image + Caractéristiques",
       "settings": {
-        "image_position": "left",
+        "image_position": "right",
         "container_width": 1300,
         "column_gap": 80,
+        "image": "shopify://shop_images/IMG-20251111-WA0057.webp",
         "image_ratio": "square",
         "heading": "L'art de parfumer votre Cocon",
         "heading_size": 31,

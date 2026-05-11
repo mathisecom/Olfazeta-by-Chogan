@@ -278,7 +278,7 @@
           "settings": {
             "round_avatar": true,
             "show_rating": true,
-            "rating": 4,
+            "rating": 5,
             "author": "Sofia B.",
             "title": "Parfait J'adopte !",
             "content": "<p>Je commence à utiliser le numéro 241 la senteur est très bien. Parfait j'adopte. Merci</p>"
@@ -305,12 +305,24 @@
             "title": "Je recommande.",
             "content": "<p>On sent que les fragrances sont complexes et de bonne qualité, semblable à l'original. Je recommande.</p>"
           }
+        },
+        "testimonial_JEpkDT": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Nadine G.",
+            "title": "Très très content",
+            "content": "<p>Très très content d'avoir découvert Olfazeta Le N 129 est incroyablement similaire.</p>"
+          }
         }
       },
       "block_order": [
         "testimonial_4qkmBx",
         "testimonial_nwpAtM",
-        "testimonial_Q97t4U"
+        "testimonial_Q97t4U",
+        "testimonial_JEpkDT"
       ],
       "name": "Testimonials",
       "settings": {

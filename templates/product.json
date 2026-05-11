@@ -365,12 +365,20 @@
             "title": "Qu'est-ce qu'Olfazeta by Chogan et d'où vient la marque ?",
             "content": "<p>Olfazeta by Chogan est la ligne de parfumerie de niche du groupe italien Chogan, créée pour démocratiser l'accès aux fragrances de haute qualité.</p><p><strong>L'histoire et l'origine</strong><br/><br/>Née au sein du Chogan Group, entreprise italienne fondée sur l'excellence des produits de beauté et personnels, Olfazeta s'impose rapidement comme une référence en parfumerie en proposant des <strong>extraits de parfum à 30% de concentration</strong> une richesse olfactive habituellement réservée aux maisons de luxe traditionnelles.</p><p><strong>Une philosophie : le luxe accessible</strong><br/><br/>La marque repose sur un modèle de distribution directe : en comptant sur un réseau de conseillé passionnés et de distributeurs plutôt que sur des infrastructures commerciales lourdes et la publicité traditionnelle, Olfazeta investit prioritairement dans la qualité des matières premières et le savoir-faire. Cette approche vertueuse permet de proposer des parfums aux accords sophistiqués, conçus avec des essences nobles, à un prix qui défie les standards du marché.</p><p><strong>Certifications et engagements</strong><br/><br/>Formulations vegan, cruelty-free, et respect des normes REACH européennes, fabriqués avec les mêmes exigences que les grandes maisons de la parfumerie française.</p>"
           }
+        },
+        "item_NzwfXQ": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
         }
       },
       "block_order": [
         "item_pnVhVA",
         "item_wnjFUc",
-        "item_6Pknrt"
+        "item_6Pknrt",
+        "item_NzwfXQ"
       ],
       "name": "FAQ",
       "settings": {

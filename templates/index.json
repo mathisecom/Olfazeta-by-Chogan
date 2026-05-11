@@ -664,12 +664,20 @@
             "title": "Proposez-vous la livraison internationale ?",
             "content": "<p>Nous expédions dans plus de 50 pays, avec une logistique optimisée depuis nos entrepôts situés en Italie, France et Allemagne.</p><p><strong>Europe</strong><br/><br/>• <strong>Union Européenne</strong> : France, Allemagne, Autriche, Belgique, Bulgarie, Croatie, Danemark, Espagne, Estonie, Finlande, Grèce, Hongrie, Irlande, Italie, Lettonie, Lituanie, Luxembourg, Pays-Bas, Pologne, Portugal, République Tchèque, Roumanie, Slovaquie, Slovénie, Suède</p><p><strong>• Europe : </strong>Suisse, Royaume-Uni<br/><br/>• <strong>Îles et micro-États</strong> : Andorre, Chypre, Guernesey (île anglo-normande), Islande, Jersey (île anglo-normande), Liechtenstein, Malte, Monaco, Norvège, Saint-Marin<br/><br/>• <strong>Balkans et Europe de l'Est</strong> : Bosnie-Herzégovine, Macédoine du Nord, Moldavie, Monténégro<br/><br/>• <strong>Territoires et îles européennes</strong> : Guadeloupe, Martinique, Mayotte, La Réunion, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon (France), Açores, Madère (Portugal), Ceuta, Îles Canaries, Melilla (Espagne), Corfou (Grèce), Îles Åland (Finlande), Îles grecques</p><p><strong>Afrique</strong><br/><br/>• Algérie</p><p><strong>Asie & Océanie</strong><br/><br/>• Asie : Arménie, Kazakhstan<br/><br/>• Océanie : Australie, Nouvelle-Calédonie</p><p><strong>Liste complète et délais</strong><br/><br/>Pour consulter la liste intégrale des destinations, délais précis par zone et tarifs :<br/><br/>Zones de livraison internationales</p>"
           }
+        },
+        "item_CFGi6X": {
+          "type": "item",
+          "settings": {
+            "title": "Qu'est-ce que l'extrait de parfum ?",
+            "content": "<p>L'extrait de parfum est la forme la plus concentrée et précieuse de la fragrance, offrant une expérience olfactive intense et une tenue exceptionnelle sur la peau.</p><p><strong>Concentration olfactive</strong><br/><br/>Chez Olfazeta, nos extraits contiennent <strong>30% de concentration</strong> en matières premières parfumées.</p><p><strong>Comparaison des concentrations</strong><br/><br/>• <strong>Extrait de parfum</strong> : 30% (tenue optimale, sillage prononcé)<br/><br/>• <strong>Eau de Parfum (EdP)</strong> : 8% à 20%<br/><br/>• <strong>Eau de Toilette (EdT)</strong> : 4% à 8%</p><p><strong>Utilisation</strong><br/><br/>Cette richesse concentrée permet une application parcimonieuse : une ou deux gouttes suffisent pour libérer l'intégralité du parfum, qui se déploie progressivement tout au long de la journée.</p>"
+          }
         }
       },
       "block_order": [
         "item_KHDKkf",
         "item_aqBXd9",
-        "item_UGBqRQ"
+        "item_UGBqRQ",
+        "item_CFGi6X"
       ],
       "name": "FAQ",
       "settings": {
